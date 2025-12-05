@@ -37,7 +37,7 @@ HyperStream is licensed under the **Business Source License 1.1 (BSL)**.
 
 * **Public Blueprint:** This repository (Free).
 * **Binary Kernel:** Available for licensed partners.
-* **Live Demo:** [LINK TO DEMO VIDEO PLACEHOLDER]
+* **Live Demo:** www.haylsystem.com
 
 **To request a binary license or schedule a live technical demonstration:**
 **Contact:** partners@tsukitechaviv.com
